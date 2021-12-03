@@ -7,9 +7,17 @@ h2 {
 }
 
 .card {
-  width: 50%;
+  width: 10%;
   margin: 0 auto;
   text-align: center;
+  border: solid rebeccapurple;
+}
+
+.port {
+  width: 10%;
+  margin: 0 auto;
+  text-align: center;
+  border: solid rgb(60, 180, 86);
 }
 
 .list-group {
